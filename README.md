@@ -20,3 +20,7 @@ Histogram (Bins): Grouping employees into age brackets to see population density
 
 ![2 Capture](https://github.com/user-attachments/assets/96adabc1-fe2e-4b3f-8f9e-03e3389607bf)
 
+# Conclusion:
+This project analyzes the workforce dynamics of "Awesome Chocolates," focusing on employee distribution, compensation equity, and organizational growth from 2017 to 2022.
+
+
