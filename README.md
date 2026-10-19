@@ -1,5 +1,9 @@
-# "Awesome Chocolates" HR Analytics Dashboard
-The report evaluates two primary areas: Workforce Composition (HR) and Sales Performance. It aims to identify where the company is growing, who its top performers are, and whether compensation is aligned with qualifications.
+#Project Title:
+"Awesome Chocolates" HR Analytics Dashboard
+
+#The report evaluates two primary areas:
+
+Workforce Composition (HR) and Sales Performance. It aims to identify where the company is growing, who its top performers are, and whether compensation is aligned with qualifications.
 
 # Analysis Methodology
 
